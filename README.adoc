@@ -1,0 +1,3 @@
+= DISID - CI
+
+This repository contains the DISID projects to be analyzed using Jenkins and SonarQube tools.
