@@ -1,0 +1,3 @@
+= Spring Roo - Petclinic
+
+This folder contains a petclinic application that has been generated using Spring Roo.
