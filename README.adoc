@@ -6,4 +6,4 @@ This repository contains the DISID projects to be analyzed using Jenkins and Son
 
 . Push the new project base folder to repository base folder.
 . Add a new 'README.adoc' to the project.
-. Create 'sonar-scanner.properties' file with the proper configuration for the project to be analyzed by SonarQube. You can use the other project files as an example.
+. Create 'sonar-project.properties' file with the proper configuration for the project to be analyzed by SonarQube. You can use the other project files as an example.
