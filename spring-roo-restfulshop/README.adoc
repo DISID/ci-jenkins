@@ -1,0 +1,3 @@
+= Spring Roo - Restful Shop
+
+This folder contains an application that has been generated using Spring Roo 'restfulshop.roo' script.
