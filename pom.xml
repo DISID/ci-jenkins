@@ -17,7 +17,12 @@
     </scm>
     <description>Aggregator for triggering Jenkins builds in each independent sub-module</description>
     <inceptionYear>2017</inceptionYear>
-    <modules>
+    
+	<properties>
+		<sonar.skip>true</sonar.skip>
+	</properties>
+
+	<modules>
         <module>spring-roo-petclinic</module>
     </modules>
 </project>
